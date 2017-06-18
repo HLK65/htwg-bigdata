@@ -1,0 +1,16 @@
+ActorSystem/.idea/
+ActorSystem/target/
+ActorSystem/project/target/
+ActorSystem/project/project/target/
+MainServer/.idea/
+MainServer/target/
+MainServer/project/target/
+MainServer/project/project/target/
+WorkerServer/.idea/
+WorkerServer/target/
+WorkerServer/project/target/
+WorkerServer/project/project/target/
+
+GatlingTesting/target/gatling
+GatlingTest/results/
+*.tar
