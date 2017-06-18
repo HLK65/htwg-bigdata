@@ -1,0 +1,47 @@
+{
+	[
+		{
+			step: 1,
+			time: 1000,
+			fields: [
+				{
+					x: 1,
+					y: 1,
+					ants: 29,
+					cocentration: 25
+				},
+				{
+					x: 2,
+					y: 1,
+					ants: 58,
+					cocentration: 50
+				},	
+			]
+		},
+		{
+		next step
+		}
+	]
+}
+
+
+
+Schritt 1:
+- RDD durchgehen im angegebenen Intervall
+- neues RDD aufbauen mit Ant-ID als Key, sodass jede Ant 1x mit aktuellster Position enthalten ist
+
+Schritt 2: 
+- RDD mit Zielstruktur für Client anlegen und alle Felder mit 0 belegen
+- RDD aus Schritt 1 durch gehen, für jede Ameiese Zielkoordiante im Zielgried berechnen 
+  und im Zielgrid entsprechenden Zähler hochzählen
+- Berechnung Zielkoordiante:
+	Bsp: 
+		Original: 150 x 150
+		Ziel:      50 x  50
+		Verhältnis: 150 / 50 = 3
+		Mapping von Kooridante 123 x 90 --> (123 / 3) x (90 / 3) --> 41 x 30 im Zielgrid
+		
+
+	
+Schritt 3 (Ausführung, nachdem Steps 1-2 für alle Iterationsschritte gemacht wurde):
+- concentration für alle Felder berechnen --> max = 100%

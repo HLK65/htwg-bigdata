@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DockerCompilation/DockerCompilation.iml" filepath="$PROJECT_DIR$/DockerCompilation/DockerCompilation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TerminalGui/TerminalGui.iml" filepath="$PROJECT_DIR$/TerminalGui/TerminalGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Slides/_Slides.iml" filepath="$PROJECT_DIR$/_Slides/_Slides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatlingTesting/.idea/modules/gatlingtesting.iml" filepath="$PROJECT_DIR$/GatlingTesting/.idea/modules/gatlingtesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatlingTesting/.idea/modules/gatlingtesting-build.iml" filepath="$PROJECT_DIR$/GatlingTesting/.idea/modules/gatlingtesting-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainServer/.idea/modules/mainserver.iml" filepath="$PROJECT_DIR$/MainServer/.idea/modules/mainserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainServer/.idea/modules/mainserver-build.iml" filepath="$PROJECT_DIR$/MainServer/.idea/modules/mainserver-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActorSystem/.idea/modules/root.iml" filepath="$PROJECT_DIR$/ActorSystem/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActorSystem/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/ActorSystem/.idea/modules/root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkVirtualization/.idea/modules/sparkvirtualization.iml" filepath="$PROJECT_DIR$/SparkVirtualization/.idea/modules/sparkvirtualization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkVirtualization/.idea/modules/sparkvirtualization-build.iml" filepath="$PROJECT_DIR$/SparkVirtualization/.idea/modules/sparkvirtualization-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visualisationclient/visualisationclient.iml" filepath="$PROJECT_DIR$/visualisationclient/visualisationclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkerServer/.idea/modules/workerserver.iml" filepath="$PROJECT_DIR$/WorkerServer/.idea/modules/workerserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkerServer/.idea/modules/workerserver-build.iml" filepath="$PROJECT_DIR$/WorkerServer/.idea/modules/workerserver-build.iml" />
+    </modules>
+  </component>
+</project>

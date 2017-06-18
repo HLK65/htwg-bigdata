@@ -1,0 +1,88 @@
+{ "steps":
+	[
+		{
+			"step": 1,
+			"time": 1000,
+			"fields": [
+				{
+					"x": 1,
+					"y": 1,
+					"ants": 10,
+					"cocentration": 10
+				},
+				{
+					"x": 2,
+					"y": 1,
+					"ants": 20,
+					"cocentration": 20
+				},	
+				{
+					"x": 3,
+					"y": 1,
+					"ants": 30,
+					"cocentration": 30
+				},	
+				{
+					"x": 1,
+					"y": 2,
+					"ants": 40,
+					"cocentration": 45
+				},
+				{
+					"x": 2,
+					"y": 2,
+					"ants": 50,
+					"cocentration": 100
+				},	
+				{
+					"x": 3,
+					"y": 2,
+					"ants": 60,
+					"cocentration": 80
+				}
+			]
+		},
+		{
+			"step": 2,
+			"time": 2000,
+			"fields": [
+				{
+					"x": 1,
+					"y": 1,
+					"ants": 30,
+					"cocentration": 20
+				},
+				{
+					"x": 2,
+					"y": 1,
+					"ants": 40,
+					"cocentration": 30
+				},	
+				{
+					"x": 3,
+					"y": 1,
+					"ants": 20,
+					"cocentration": 15
+				},	
+				{
+					"x": 1,
+					"y": 2,
+					"ants": 80,
+					"cocentration": 90
+				},
+				{
+					"x": 2,
+					"y": 2,
+					"ants": 50,
+					"cocentration": 65
+				},	
+				{
+					"x": 3,
+					"y": 2,
+					"ants": 30,
+					"cocentration": 76
+				}
+			]
+		}
+	]
+}
